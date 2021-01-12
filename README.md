@@ -8,9 +8,10 @@
 |2|스프링 입문|
 
 ___
-## 자바 입문
+## 자바 입문 
+##### (2021-02-07 ~ 2020-02-11)
 
-📝 노트 정리 Click [here](https://www.notion.so/Java-5fb11843273d411dbe5fde933d46de43)
+#### 📝 노트 정리 Click [here](https://www.notion.so/Java-5fb11843273d411dbe5fde933d46de43)
 <details><summary>🪄 공부 순서</summary>
 <p>
 
