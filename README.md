@@ -11,21 +11,26 @@ ___
 ## 자바 입문
 
 📝 노트 정리 Click [here](https://www.notion.so/Java-5fb11843273d411dbe5fde933d46de43)
-<details>
-<summary>🪄 공부 순서</summary>
- <p>
+<details><summary>CLICK ME</summary>
+<p>
+ 
+#### hidden도 가능하다고~
+ - [x] task1
+ - [ ] task2
  - [x] 객체지향 프로그래밍
  - [x] 생성자
  - [x] 레퍼런스와 스태틱
  - [x] 접근 제한자와 게터 세터
- <br>
  - [x] 자바 API
- <br>
  - [x] 상속
- <br>
  - [x] 인터페이스
- <br>
  - [x] 총정리
+</p>
+</details>
+<details>
+<summary>🪄 공부 순서</summary>
+ <p>
+
  </p>
 </details>
 
