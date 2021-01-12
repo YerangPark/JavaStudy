@@ -8,7 +8,7 @@
 |2|스프링 입문|
 
 ___
-### 자바 입문
+## 자바 입문
 
 📝 노트 정리 Click [here](https://www.notion.so/Java-5fb11843273d411dbe5fde933d46de43)
 <details>
@@ -31,11 +31,10 @@ ___
 </details>
 
 ##### 💻 강의 : 인프런, 홍팍의 [그림으로 배우는 자바, 파트2: 객체지향!](https://www.inflearn.com/course/그림으로-배우는-자바-객체지향/dashboard)
-<br>
 
 ___
 
-### 스프링 입문
+## 스프링 입문
 
 📝 노트 정리 Click [here](https://www.notion.so/Spring-ed8973eed78d4cd99bd6e7e1c6b241a0)
 <details>
