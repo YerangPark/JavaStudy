@@ -11,7 +11,7 @@ public class HelloController {
     @GetMapping("hello")
     public String hello(Model model){
         model.addAttribute("data","hello!!");
-        return "hello";
+        return "hello"; //resources폴더에 templates폴더에 hello라는 파일에 렌더링해라.
     }
 
     @GetMapping("hello-mvc")

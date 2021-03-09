@@ -2,7 +2,7 @@ package hello.hellospring.domain;
 
 public class Member {
 
-    private Long id; //system's id
+    private Long id; //데이터를 구분하기 위한 system's id
     private String name;
 
     public Long getId() {
