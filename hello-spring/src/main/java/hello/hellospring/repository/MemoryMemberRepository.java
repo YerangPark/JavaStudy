@@ -52,6 +52,5 @@ public class MemoryMemberRepository implements MemberRepository {
     }
 
     //근데 얘네가 제대로 동작하는지 어떻게 볼 수 있을까? -> 테스트 케이스!!!
-    //src>test로 갑시다
-
+    //클래스 이름 클릭 후 Command+Shift+T
 }

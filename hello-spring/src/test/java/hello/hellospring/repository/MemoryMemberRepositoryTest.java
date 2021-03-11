@@ -23,7 +23,7 @@ class MemoryMemberRepositoryTest {
 
     @AfterEach  //각 메서드가 실행 될 때마다 실행!
     public void afterEach(){
-        repository.celarStore();
+        repository.clearStore();
     }
     // 이제 순서와 상관 없이 테스트가 실행될 수 있음.
 
@@ -81,7 +81,7 @@ class MemoryMemberRepositoryTest {
 
         List<Member> result = repository.findAll();
 
-        //2개가 맞니?
+        //2개가 맞니? 물어봅시당~
         assertThat(result.size()).isEqualTo(2);
     }
 }
