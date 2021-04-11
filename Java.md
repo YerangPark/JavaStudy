@@ -2,9 +2,8 @@
 생성일: Jan 7, 2021 6:18 PM
 태그: #공부/Java
 
-📝 노트 정리 Click [here](---)
 <details>
-<summary>🪄 공부 순서</summary>
+<summary>🪄 목차</summary>
  <pre>
  1. 객체지향 프로그래밍
 2. 생성자 호출과 정의
