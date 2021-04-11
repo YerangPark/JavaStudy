@@ -6,10 +6,11 @@ import hello.hellospring.repository.MemoryMemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.transaction.Transactional;
 import java.util.List;
 import java.util.Optional;
 
-@Service
+@Transactional
 public class MemberService {
 
     // 서비스를 만드려면 일단 회원 리포지토리가 있어야겠죠?

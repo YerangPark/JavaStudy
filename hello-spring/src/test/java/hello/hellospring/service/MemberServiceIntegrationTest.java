@@ -1,26 +1,27 @@
 package hello.hellospring.service;
 
 import hello.hellospring.domain.Member;
+import hello.hellospring.repository.MemberRepository;
 import hello.hellospring.repository.MemoryMemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.transaction.annotation.Transactional;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
+@SpringBootTest
+@Transactional
 class MemberServiceIntegrationTest {
-    //회원가입을 하려면 서비스가 있어야 하니까 서비스부터 선언.
-    MemberService memberService;
-    MemoryMemberRepository memberRepository;
+    //테스트는 좀 간단하게 걍 이렇게 Autowired 해도 됨
 
-    //선언한거에 대입.
-    //스태틱을 안쓰더라도 같은 메모리 멤버 리포지토리를 사용하기 위해서! -> DI(Dependancy Injection)라고 부름
-    @BeforeEach
-    public void beforeEach() {
-        memberRepository = new MemoryMemberRepository();
-        memberService = new MemberService(memberRepository);
-    }
+    @Autowired MemberService memberService;
+    @Autowired MemberRepository memberRepository;
+
+
 
     @AfterEach
     public void afterEach() {
