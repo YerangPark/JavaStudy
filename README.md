@@ -11,7 +11,7 @@ ___
 ## 자바
 ##### 공부 기간 : ~ 2021-02-11
 
-#### 📝 노트 정리 Click [here](---)
+#### 📝 노트 정리 Click [here](https://github.com/yerang2zzang/JavaStudy/blob/master/Java.md)
 <details><summary>🪄 공부 순서</summary>
 <p>
 
