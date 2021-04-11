@@ -24,7 +24,7 @@ ___
  - [x] 상속
  - [x] 인터페이스
  - [x] 총정리
- - [x] JAVA 8 (by TCPschool)
+ - [x] JAVA 8
 </p>
 </details>
 
