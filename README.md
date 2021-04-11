@@ -34,7 +34,7 @@ ___
 ## 스프링 입문
 ##### 공부 기간 : 2021-02-12 ~ now
 
-📝 노트 정리 Click [here](---)
+📝 노트 정리 Click [here](https://github.com/yerang2zzang/JavaStudy/blob/master/SpringStart.md)
 <details>
 <summary>🪄 공부 순서</summary>
  <p>
